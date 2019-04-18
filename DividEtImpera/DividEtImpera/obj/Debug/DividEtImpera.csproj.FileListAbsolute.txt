@@ -1,0 +1,10 @@
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\bin\Debug\DividEtImpera.exe.config
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\bin\Debug\DividEtImpera.exe
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\bin\Debug\DividEtImpera.pdb
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\obj\Debug\DividEtImpera.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\obj\Debug\DividEtImpera.Form1.resources
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\obj\Debug\DividEtImpera.Properties.Resources.resources
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\obj\Debug\DividEtImpera.csproj.GenerateResource.cache
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\obj\Debug\DividEtImpera.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\obj\Debug\DividEtImpera.exe
+D:\Documents\Panni\universirate\Lor\DividEtImpera\DividEtImpera\obj\Debug\DividEtImpera.pdb

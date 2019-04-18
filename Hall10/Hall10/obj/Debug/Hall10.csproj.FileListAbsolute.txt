@@ -1,0 +1,10 @@
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\obj\Debug\Hall10.csprojAssemblyReference.cache
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\obj\Debug\Hall10.Form1.resources
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\obj\Debug\Hall10.Properties.Resources.resources
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\obj\Debug\Hall10.csproj.GenerateResource.cache
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\obj\Debug\Hall10.csproj.CoreCompileInputs.cache
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\bin\Debug\Hall10.exe.config
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\bin\Debug\Hall10.exe
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\bin\Debug\Hall10.pdb
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\obj\Debug\Hall10.exe
+D:\Documents\Panni\universirate\Lor\Hall10\Hall10\obj\Debug\Hall10.pdb

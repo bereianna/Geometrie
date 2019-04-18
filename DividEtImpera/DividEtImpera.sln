@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2041
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DividEtImpera", "DividEtImpera\DividEtImpera.csproj", "{AD33D139-CE03-4318-ACA6-90C32261186C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD33D139-CE03-4318-ACA6-90C32261186C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD33D139-CE03-4318-ACA6-90C32261186C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD33D139-CE03-4318-ACA6-90C32261186C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD33D139-CE03-4318-ACA6-90C32261186C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D91810E-FC6C-42E5-81E8-C0D984F4FF67}
+	EndGlobalSection
+EndGlobal
